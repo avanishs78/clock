@@ -1,0 +1,21 @@
+.box{
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  flex-direction: column;
+  background-color: rgb(143, 201, 224);
+  height: 100vh;
+  color: red;
+  font-family:sans-serif;
+  background-image: url('./thumb-1920-414718.jpg');
+}
+.time{
+  font-size: 50px;
+  width: 30vw;
+  margin-left: 35vw;
+  margin-top: 5px;
+  border: 2px solid black;
+  border-radius: 10%,0%,10%,0%;
+  color: white;
+  background-color: black;
+}
